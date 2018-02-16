@@ -1,0 +1,15 @@
+{
+  "name": "redux-hyper-mod",
+  "version": "1.0.1",
+  "description": "Allows user to broadcast actions out via socket then receive them back via socket, and then filter any actions that have run",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "immutable": "^3.8.2",
+    "redux": "^3.7.2"
+  }
+}
